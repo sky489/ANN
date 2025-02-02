@@ -1,0 +1,15 @@
+numpy
+matplotlib
+PyQt5==5.13
+PySide2
+icecream
+networkx
+scikit-learn
+tqdm
+tensorflow
+pydot
+pandas
+tushare
+minisom
+imageio
+
